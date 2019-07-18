@@ -31,3 +31,5 @@ ATmega168
 	0.1uF(C1) x 6
 	22pF(C2) x 2
 	10uF(C3) x 4
+
+For More Info on this project, Go to official website of [GareebDevs](https://).
